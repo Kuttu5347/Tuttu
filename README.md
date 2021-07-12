@@ -5,11 +5,11 @@
 <a href="#"><img title="TUTTU" src="https://img.shields.io/badge/TUTTU-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Kuttu5347"><img title="Author" src="https://img.shields.io/badge/Author-Kuttu5347/tuttu?color=red&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/kuttu5347"><img title="Author" src="https://img.shields.io/badge/Author-kuttu5347/tuttu?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Kuttu5347">tuttu</a> to make it public
+Project created by <a href="https://github.com/kuttu5347">tuttu</a> to make it public
     <br>
        | © |
         Reserved |
@@ -19,13 +19,13 @@ Project created by <a href="https://github.com/Kuttu5347">tuttu</a> to make it p
 ----
 
   <p align="center">
-  <a href="httsp://github.com/Kuttu5347/tuttu">
-    <img src="https://img.shields.io/github/repo-size/Kuttu5347/tuttu?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/kuttu5347/tuttu">
+    <img src="https://img.shields.io/github/repo-size/kuttu5347/tuttu?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/Kuttu5347/followers"><img title="Followers" src="https://img.shields.io/github/followers/Kuttu5347?color=blue&style=flat-square"></a>
-<a href="https://github.com/Kuttu5347/tuttu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Kuttu5347/tuttu?color=blue&style=flat-square"></a>
-<a href="https://github.com/Kuttu5347/tuttu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Kuttu5347/tuttu?color=blue&style=flat-square"></a>
-<a href="https://github.com/Kuttu5347/tuttu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Kuttu5347/tuttu?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/kuttu5347/followers"><img title="Followers" src="https://img.shields.io/github/followers/kuttu5347?color=blue&style=flat-square"></a>
+<a href="https://github.com/kuttu5347/tuttu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/kuttu5347/tuttu?color=blue&style=flat-square"></a>
+<a href="https://github.com/kuttu5347/tuttu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kuttu5347/tuttu?color=blue&style=flat-square"></a>
+<a href="https://github.com/kuttu5347/tuttu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/kuttu5347/tuttu?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
@@ -36,7 +36,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/GUhzlg6Yhkj611fLl5HkpN)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kuttu5347&repo=PublicBot&theme=nightowl)](https://github.com/Kuttu5347/tuttu)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kuttu5347&repo=PublicBot&theme=nightowl)](https://github.com/kuttu5347/tuttu)
   </div>
     
 ## Setup
@@ -61,7 +61,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Kuttu5347/tuttu
+$ git clone https://github.com/kuttu5347/tuttu
 $ cd tuttu
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -71,7 +71,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Kuttu5347/tuttu
+$ git clone https://github.com/kuttu5347/tuttu
 $ cd tuttu
 $ chmod +x *
 $ npm i
@@ -92,7 +92,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Kuttu5347](https://github.com/Kuttu5347?size=100)](https://github.com/Kuttu5347) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![kuttu5347](https://github.com/kuttu5347?size=100)](https://github.com/kuttu5347) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
 [farhan-dqz](https://github.com/farhan-dqz)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
